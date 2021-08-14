@@ -25,5 +25,6 @@ def swap (array, index1)
 end
 
 mixed = [6,5,3,1,8,7,2,4]
+topTen = [7,8,9,4,5,2,5,1,5]
 
-print bubble_sort(mixed)
+print bubble_sort(topTen)
